@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manshi19chauhan
-- 👀 I’m interested in python
-- 🌱 I’m currently learning AI with Python also a frontend developer
-- 💞️ I’m looking to collaborate on something that would benefit me in my learning along with work
+- 🤖 javascript,python,c++
+- 🌱 Exploring Backend
+- 💞️ like to work in team
 - 📫 How to reach me : mail me on - chauhanmanshi207@gmail.com
 - :) THANK YOU FOR LOOKING 
 
